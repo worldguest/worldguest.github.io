@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## 个人研究方向
 
-You can use the [editor on GitHub](https://github.com/worldguest/worldguest.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+机器人运动规划
+机器视觉
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
 
-### Markdown
+2018.9 – 2021.7       北京信息科技大学       电子与通信专业        硕士
+硕士论文：协作机器人运动规划算法与应用研究
+2014.9 – 2018.7       北京信息科技大学       通信工程              本科
+本科论文：基于视觉的目标识别算法
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 论文成果
 
-- Bulleted
-- List
+截至目前，硕士期间一共发表3篇论文，其中一作2篇，包括一篇三区SCI论文和一篇EI会议论文。还有一篇论文在准备中，计划八月份投稿SCI。            
+[1] Jiangyu Lan, Yinggang Xie, Guangjun Liu, Manxin Cao. A Multi-Objective Trajectory Planning Method for Collaborative Robot. Electronics 2020, 9, 859. (SCI, IF = 1.764)
+[2] Jiangyu Lan, Yinggang Xie, Hui Wang, and Guangjun Liu. A Face Recognition System Based on Improved Convolutional Neural Network. In Proceedings of the 2019 2nd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2019). Association for Computing Machinery, New York, NY, USA, 230–235. (EI会议)
+[3] Yinggang Xie, Jingyu Xing, Guangjun Liu, Jiangyu Lan, Yaoyao Dong, "Real-time Reconstruction of Unstructured Scenes Based on Binocular Vision Depth," Journal of Internet Technology, vol. 20, no. 5, pp. 1611-1623, Sep. 2019. (SCI, IF = 0.715)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 奖项证书
 
-[Link](url) and ![Image](src)
-```
+[1] 2019 二等学业奖学金
+[2] 2019 中国机器人大赛，FIRA小组型-仿真组避障挑战赛三等奖
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 个人技能
 
-### Jekyll Themes
+[1] 英语：可熟练阅读写作英文论文；六级 426；托福学习中，去年首考70
+[2] 编程：可熟练使用C/C++，Python，Matlab等编程语言
+[3] 机器人：可熟练使用ROS机器人系统
+[4] 其它：北京市健美协会健身教练认证
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/worldguest/worldguest.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

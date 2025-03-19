@@ -1,14 +1,12 @@
-Hello, I am Jiangyu Lan, a PhD student at Beijing Jiaotong University, specializing in UAV networks, future networks, and robot motion planning. I am always eager to connect with fellow researchers and professionals to exchange ideas and foster collaborations that push the boundaries of our field.  Welcome to my academic homepage, where you can explore my research, publications, and ongoing projects.
+Hello, I am Jiangyu Lan, a PhD student at Beijing Jiaotong University, specializing in UAV networks, future networks, and robot motion planning. I am always eager to connect with fellow researchers and professionals to exchange ideas and foster collaborations that push the boundaries of our field.  Welcome to my academic homepage, where you can explore my research and publications.
 
 ## Research Interests
 
 UAV Networks,
-
 Future Network,
-
 Robot Motion Planning
 
-### Education
+## Education
 
 2022.9 - present, Beijing Jiaotong University, Information and Communication Engineering, PhD
 
@@ -16,11 +14,11 @@ Robot Motion Planning
 
 2014.9 - 2018.6, Beijing Information Science & Technology University, Communication Engineering, Bachelor
 
-### Work Experience
+## Work Experience
 
 2021.7 - 2022.7, China Telecom, Network Engineer
 
-### Publications
+## Publications
 
 Please refer to my [Google Scholar homepage](https://scholar.google.com/citations?user=sa89XfwAAAAJ&hl=en&oi=ao).
 

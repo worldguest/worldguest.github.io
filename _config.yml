@@ -1,1 +1,10 @@
 theme: jekyll-theme-architect
+
+title: "你的名字"           # 网站标题
+description: "个人主页描述"  # 网站描述
+avatar: "/assets/avatar.jpg" # 头像路径
+navigation:
+  - name: "博客"           # 导航菜单项
+    url: "/blog/"
+  - name: "项目"
+    url: "/projects/"

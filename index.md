@@ -87,15 +87,15 @@ header .inner {
 }
 
 .profile-photo {
-  width: 150px;
+  width: 170px;
   margin: 0 0 18px;
 }
 
 .profile-photo img {
   display: block;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
+  width: 170px;
+  height: 220px;
+  border-radius: 4px;
   object-fit: cover;
   border: 1px solid var(--line);
 }

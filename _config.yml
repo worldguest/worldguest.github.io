@@ -1,10 +1,9 @@
 theme: jekyll-theme-architect
 
-title: "Jiangyu Lan"           # 网站标题
-description: "Lan's HomePage"  # 网站描述
-avatar: "/assets/avatar.jpg" # 头像路径
+title: "Jiangyu Lan"
+description: "Academic homepage of Jiangyu Lan"
 navigation:
-  - name: "博客"           # 导航菜单项
+  - name: "Blog / 博客"
     url: "/blog/"
-  - name: "项目"
+  - name: "Projects / 项目"
     url: "/projects/"

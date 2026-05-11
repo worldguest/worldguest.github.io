@@ -82,7 +82,7 @@ header .inner {
 .sidebar {
   border-right: 1px solid var(--line);
   padding-right: 24px;
-  font-size: 0.9rem;
+  font-size: 0.86rem;
   line-height: 1.58;
 }
 
@@ -107,33 +107,30 @@ header .inner {
 }
 
 .position {
-  margin: 0 0 18px;
+  margin: 0 0 14px;
   color: var(--muted);
   line-height: 1.55;
 }
 
-.side-block {
-  margin-top: 22px;
-}
-
-.side-block h2 {
-  margin: 0 0 8px;
-  border-bottom: 1px solid var(--line);
-  padding-bottom: 4px;
-  font-size: 0.95rem;
-}
-
-.side-block p,
-.side-block ul {
+.profile-links {
+  list-style: none;
   margin: 0;
+  padding: 12px 0 0;
+  border-top: 1px solid var(--line);
 }
 
-.side-block ul {
-  padding-left: 18px;
+.profile-links li {
+  display: grid;
+  grid-template-columns: 20px minmax(0, 1fr);
+  gap: 8px;
+  align-items: start;
+  margin-bottom: 9px;
 }
 
-.side-block li {
-  margin-bottom: 5px;
+.profile-icon {
+  color: var(--muted);
+  text-align: center;
+  line-height: 1.55;
 }
 
 .content section {
@@ -241,22 +238,14 @@ a:hover {
         <h1 class="name">Jiangyu Lan</h1>
         <p class="position">
           Ph.D. Candidate<br>
-          Information and Communication Engineering<br>
-          Beijing Jiaotong University
+          Information and Communication Engineering
         </p>
 
-        <div class="side-block">
-          <h2>Contact</h2>
-          <ul>
-            <li><a href="mailto:lanjiangyu@bjtu.edu.cn">lanjiangyu@bjtu.edu.cn</a></li>
-            <li><a href="https://scholar.google.com/citations?user=sa89XfwAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar</a></li>
-          </ul>
-        </div>
-
-        <div class="side-block">
-          <h2>Affiliation</h2>
-          <p>Beijing Jiaotong University</p>
-        </div>
+        <ul class="profile-links">
+          <li><span class="profile-icon">🏛</span><span>Beijing Jiaotong University</span></li>
+          <li><span class="profile-icon">✉</span><a href="mailto:lanjiangyu@bjtu.edu.cn">lanjiangyu@bjtu.edu.cn</a></li>
+          <li><span class="profile-icon">🎓</span><a href="https://scholar.google.com/citations?user=sa89XfwAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar</a></li>
+        </ul>
       </aside>
 
       <main class="content">
@@ -344,22 +333,14 @@ a:hover {
         <h1 class="name">兰江雨</h1>
         <p class="position">
           博士研究生<br>
-          信息与通信工程<br>
-          北京交通大学
+          信息与通信工程
         </p>
 
-        <div class="side-block">
-          <h2>联系方式</h2>
-          <ul>
-            <li><a href="mailto:lanjiangyu@bjtu.edu.cn">lanjiangyu@bjtu.edu.cn</a></li>
-            <li><a href="https://scholar.google.com/citations?user=sa89XfwAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar</a></li>
-          </ul>
-        </div>
-
-        <div class="side-block">
-          <h2>所在单位</h2>
-          <p>北京交通大学</p>
-        </div>
+        <ul class="profile-links">
+          <li><span class="profile-icon">🏛</span><span>北京交通大学</span></li>
+          <li><span class="profile-icon">✉</span><a href="mailto:lanjiangyu@bjtu.edu.cn">lanjiangyu@bjtu.edu.cn</a></li>
+          <li><span class="profile-icon">🎓</span><a href="https://scholar.google.com/citations?user=sa89XfwAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar</a></li>
+        </ul>
       </aside>
 
       <main class="content">

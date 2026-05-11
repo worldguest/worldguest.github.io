@@ -74,7 +74,7 @@ header .inner {
 
 .page-layout {
   display: grid;
-  grid-template-columns: 250px minmax(0, 1fr);
+  grid-template-columns: 220px minmax(0, 1fr);
   gap: 42px;
   align-items: start;
 }
@@ -82,11 +82,27 @@ header .inner {
 .sidebar {
   border-right: 1px solid var(--line);
   padding-right: 24px;
+  font-size: 0.9rem;
+  line-height: 1.58;
+}
+
+.profile-photo {
+  width: 150px;
+  margin: 0 0 18px;
+}
+
+.profile-photo img {
+  display: block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--line);
 }
 
 .name {
   margin: 0 0 8px;
-  font-size: 1.75rem;
+  font-size: 1.45rem;
   line-height: 1.2;
 }
 
@@ -104,7 +120,7 @@ header .inner {
   margin: 0 0 8px;
   border-bottom: 1px solid var(--line);
   padding-bottom: 4px;
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 
 .side-block p,
@@ -219,6 +235,9 @@ a:hover {
   <div data-lang="en" class="visible">
     <div class="page-layout">
       <aside class="sidebar">
+        <div class="profile-photo">
+          <img src="assets/profile.jpg" alt="Jiangyu Lan" onerror="this.parentElement.style.display='none'">
+        </div>
         <h1 class="name">Jiangyu Lan</h1>
         <p class="position">
           Ph.D. Candidate<br>
@@ -238,18 +257,13 @@ a:hover {
           <h2>Affiliation</h2>
           <p>Beijing Jiaotong University</p>
         </div>
-
-        <div class="side-block">
-          <h2>Advisors</h2>
-          <p>Prof. Shuai Gao<br>Assoc. Prof. Weiting Zhang</p>
-        </div>
       </aside>
 
       <main class="content">
         <section>
           <h1>Biography</h1>
           <p>
-            I am a Ph.D. candidate in Information and Communication Engineering at Beijing Jiaotong University, expected to graduate in December 2026. My research focuses on adaptive networking for distributed intelligence in UAV and low-altitude networks.
+            I am a Ph.D. candidate in Information and Communication Engineering at Beijing Jiaotong University, advised by Prof. Shuai Gao and Assoc. Prof. Weiting Zhang. I am expected to graduate in December 2026. My research focuses on adaptive networking for distributed intelligence in UAV and low-altitude networks.
           </p>
           <p>
             I am interested in edge intelligence, learning-enabled network optimization, and programmable routing and forwarding. My recent work explores networking support for federated learning, multi-stage UAV collaboration, and LLM-agent cooperation in dynamic wireless environments.
@@ -324,6 +338,9 @@ a:hover {
   <div data-lang="zh">
     <div class="page-layout">
       <aside class="sidebar">
+        <div class="profile-photo">
+          <img src="assets/profile.jpg" alt="兰江雨" onerror="this.parentElement.style.display='none'">
+        </div>
         <h1 class="name">兰江雨</h1>
         <p class="position">
           博士研究生<br>
@@ -343,18 +360,13 @@ a:hover {
           <h2>所在单位</h2>
           <p>北京交通大学</p>
         </div>
-
-        <div class="side-block">
-          <h2>导师</h2>
-          <p>高帅 教授<br>张维庭 副教授</p>
-        </div>
       </aside>
 
       <main class="content">
         <section>
           <h1>个人简介</h1>
           <p>
-            我是北京交通大学信息与通信工程专业博士研究生，预计于 2026 年 12 月毕业。我的研究聚焦面向无人机与低空网络中分布式智能服务的自适应网络技术。
+            我是北京交通大学信息与通信工程专业博士研究生，导师为高帅教授，研究指导为张维庭副教授，预计于 2026 年 12 月毕业。我的研究聚焦面向无人机与低空网络中分布式智能服务的自适应网络技术。
           </p>
           <p>
             我的研究兴趣包括边缘智能、学习驱动的网络优化，以及可编程路由与转发机制。近期工作主要探索面向联邦学习、多阶段无人机协同和大模型智能体协作的网络支撑机制。

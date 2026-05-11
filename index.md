@@ -8,6 +8,38 @@
   --soft: #f7f7f7;
 }
 
+/* Overrides for the default GitHub Pages Architect theme. */
+header .button,
+#sidebar {
+  display: none !important;
+}
+
+header {
+  padding: 22px 0 !important;
+}
+
+header h1 {
+  font-size: 2rem !important;
+}
+
+header h2 {
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+}
+
+#content-wrapper .inner,
+header .inner {
+  width: auto !important;
+  max-width: 1120px !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
+
+#main-content {
+  float: none !important;
+  width: 100% !important;
+}
+
 .academic-home {
   max-width: 1120px;
   margin: 0 auto;

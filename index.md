@@ -44,6 +44,7 @@ header .inner {
   max-width: 1120px;
   margin: 0 auto;
   color: var(--text);
+  font-family: "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
   font-size: 16px;
   line-height: 1.7;
 }
@@ -87,14 +88,14 @@ header .inner {
 }
 
 .profile-photo {
-  width: 170px;
+  width: 155px;
   margin: 0 0 18px;
 }
 
 .profile-photo img {
   display: block;
-  width: 170px;
-  height: 220px;
+  width: 155px;
+  height: 200px;
   border-radius: 4px;
   object-fit: cover;
   border: 1px solid var(--line);
@@ -139,7 +140,9 @@ header .inner {
 
 .content h1 {
   margin: 0 0 10px;
-  font-size: 1.95rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.55rem;
+  font-weight: 600;
   line-height: 1.25;
 }
 
@@ -147,12 +150,15 @@ header .inner {
   margin: 0 0 12px;
   border-bottom: 1px solid var(--line);
   padding-bottom: 5px;
-  font-size: 1.35rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.18rem;
+  font-weight: 600;
 }
 
 .content h3 {
   margin: 20px 0 8px;
-  font-size: 1.05rem;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .content p {
@@ -250,7 +256,6 @@ a:hover {
 
       <main class="content">
         <section>
-          <h1>Biography</h1>
           <p>
             I am a Ph.D. candidate in Information and Communication Engineering at Beijing Jiaotong University, advised by Prof. Shuai Gao and Assoc. Prof. Weiting Zhang. I am expected to graduate in December 2026. My research focuses on adaptive networking for distributed intelligence in UAV and low-altitude networks.
           </p>
@@ -345,7 +350,6 @@ a:hover {
 
       <main class="content">
         <section>
-          <h1>个人简介</h1>
           <p>
             我是北京交通大学信息与通信工程专业博士研究生，导师为郜帅教授，研究指导为张维庭副教授，预计于 2026 年 12 月毕业。我的研究聚焦面向无人机与低空网络中分布式智能服务的自适应网络技术。
           </p>

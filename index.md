@@ -316,13 +316,48 @@ a:hover {
         </section>
 
         <section>
-          <h2>Experience, Service, and Skills</h2>
+          <h2>Work Experience</h2>
           <ul>
-            <li><strong>Work experience:</strong> Network Engineer at China Telecom, Jul. 2021 - Jul. 2022.</li>
-            <li><strong>Academic service:</strong> reviewer for <em>IEEE Transactions on Network Science and Engineering</em> and <em>IEEE Transactions on Cognitive Communications and Networking</em>.</li>
-            <li><strong>Projects:</strong> participated in national, municipal, and industry-funded projects on cloud-network convergence, intelligent computing networks, multidimensional identifiers, and unmanned swarm networking.</li>
-            <li><strong>Patents:</strong> two Chinese patents published and two additional Chinese patent applications pending.</li>
-            <li><strong>Technical skills:</strong> Python, C/C++, MATLAB, LaTeX, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, SDN, P4, NS-3, ROS, and Linux.</li>
+            <li><span class="time">Jul. 2021 - Jul. 2022:</span> Network Engineer, China Telecom.</li>
+            <li>Worked on operation and maintenance for carrier-grade communication networks, gaining practical experience in network management and communication infrastructure.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Research Projects</h2>
+          <ul>
+            <li>Participating researcher and proposal contributor for national, municipal, and industry-funded projects on cloud-network convergence, intelligent computing networks, multidimensional identifiers, and unmanned swarm networking.</li>
+            <li>Participated in the NSFC Joint Fund Key Program on trustworthy multidimensional identifiers for cloud-network convergence, an NSFC Major Research Program subproject on intelligent computing-network service orchestration, and a Beijing Natural Science Foundation project on unmanned swarm networking.</li>
+            <li>Participated in China Telecom industry-academia projects on cloud-network convergence, intelligent inference, and identifier-integrated networking.</li>
+            <li>Contributed to technical proposal writing, literature review, research problem formulation, and project planning.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Patents</h2>
+          <ul>
+            <li>S. Gao, <strong>J. Lan</strong>, Y. Zhang, T. Zheng, W. Quan, and W. Su, "Clustered Federated Learning Method, Apparatus, and Electronic Device for UAV Swarms," Chinese Patent, No. CN121865363A.</li>
+            <li>S. Gao, Y. Zhang, Y. Yi, <strong>J. Lan</strong>, W. Su, and H. Zhang, "A Multicast Communication Method, System, and Electronic Device Based on 3D Geographic Location," Chinese Patent, No. CN122001807A.</li>
+            <li>S. Gao, <strong>J. Lan</strong>, W. Zhang, Y. Zhang, and H. Zhang, "QoS-Aware Multi-Stage Task Allocation Method and System for UAV Swarms," Chinese Patent, pending.</li>
+            <li>S. Gao, Y. Zhang, Y. Li, <strong>J. Lan</strong>, P. Dong, and H. Zhang, "Identifier-Based Communication Method, Data Forwarding Method, and Apparatus for Identity-Based Multicast," Chinese Patent, pending.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Academic Service</h2>
+          <ul>
+            <li>Reviewer for <em>IEEE Transactions on Network Science and Engineering</em>.</li>
+            <li>Reviewer for <em>IEEE Transactions on Cognitive Communications and Networking</em>.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Technical Skills</h2>
+          <ul>
+            <li><strong>Programming:</strong> Python, C/C++, MATLAB, LaTeX.</li>
+            <li><strong>Machine learning:</strong> PyTorch, TensorFlow, scikit-learn, Pandas, NumPy.</li>
+            <li><strong>Networking and systems:</strong> SDN, P4, NS-3, ROS, Linux.</li>
+            <li><strong>Research methods:</strong> federated learning, reinforcement learning, UAV network simulation.</li>
           </ul>
         </section>
       </main>
@@ -410,13 +445,48 @@ a:hover {
         </section>
 
         <section>
-          <h2>经历、服务与技能</h2>
+          <h2>工作经历</h2>
           <ul>
-            <li><strong>工作经历：</strong>2021.07 - 2022.07，中国电信，网络工程师。</li>
-            <li><strong>学术服务：</strong>担任 <em>IEEE Transactions on Network Science and Engineering</em> 与 <em>IEEE Transactions on Cognitive Communications and Networking</em> 审稿人。</li>
-            <li><strong>项目经历：</strong>参与国家级、市级及产学研项目，方向包括云网融合、智能算网、多维标识与无人集群网络等。</li>
-            <li><strong>专利：</strong>已公开中国专利 2 项，另有 2 项中国专利申请中。</li>
-            <li><strong>技术能力：</strong>Python、C/C++、MATLAB、LaTeX、PyTorch、TensorFlow、scikit-learn、Pandas、NumPy、SDN、P4、NS-3、ROS、Linux。</li>
+            <li><span class="time">2021.07 - 2022.07：</span>中国电信，网络工程师。</li>
+            <li>参与运营商级通信网络的运行维护工作，积累了网络管理与通信基础设施方面的工程实践经验。</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>科研项目</h2>
+          <ul>
+            <li>作为参与研究人员和申请书撰写参与者，参与国家级、市级及产学研项目，研究方向覆盖云网融合、智能算网、多维标识与无人集群网络等。</li>
+            <li>参与云网融合可信多维标识相关国家自然科学基金联合基金重点项目、智能算网服务编排相关国家自然科学基金重大研究计划子课题，以及无人集群网络相关北京市自然科学基金项目。</li>
+            <li>参与中国电信产学研项目，方向包括云网融合、智能推理与标识融合网络。</li>
+            <li>参与技术方案撰写、文献调研、研究问题凝练与项目规划。</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>专利</h2>
+          <ul>
+            <li>郜帅、<strong>兰江雨</strong>、张宇、郑涛、权伟、苏伟，“面向无人机集群的聚类联邦学习方法、装置及电子设备”，中国专利，CN121865363A。</li>
+            <li>郜帅、张宇、易尧、<strong>兰江雨</strong>、苏伟、张宏科，“一种基于三维地理位置的组播通信方法、系统及电子设备”，中国专利，CN122001807A。</li>
+            <li>郜帅、<strong>兰江雨</strong>、张维庭、张宇、张宏科，“面向无人机集群的 QoS 感知多阶段任务分配方法及系统”，中国专利申请中。</li>
+            <li>郜帅、张宇、李阳、<strong>兰江雨</strong>、董鹏、张宏科，“面向基于身份组播的标识通信方法、数据转发方法及装置”，中国专利申请中。</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>学术服务</h2>
+          <ul>
+            <li>担任 <em>IEEE Transactions on Network Science and Engineering</em> 审稿人。</li>
+            <li>担任 <em>IEEE Transactions on Cognitive Communications and Networking</em> 审稿人。</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>技术能力</h2>
+          <ul>
+            <li><strong>编程语言：</strong>Python、C/C++、MATLAB、LaTeX。</li>
+            <li><strong>机器学习：</strong>PyTorch、TensorFlow、scikit-learn、Pandas、NumPy。</li>
+            <li><strong>网络与系统：</strong>SDN、P4、NS-3、ROS、Linux。</li>
+            <li><strong>研究方法：</strong>联邦学习、强化学习、无人机网络仿真。</li>
           </ul>
         </section>
       </main>

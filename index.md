@@ -257,7 +257,7 @@ a:hover {
       <main class="content">
         <section>
           <p>
-            I am a Ph.D. candidate in Information and Communication Engineering at Beijing Jiaotong University, advised by Prof. Shuai Gao and Assoc. Prof. Weiting Zhang. I am expected to graduate in December 2026. My research focuses on adaptive networking for distributed intelligence in UAV and low-altitude networks.
+            I am a Ph.D. candidate in Information and Communication Engineering at Beijing Jiaotong University, advised by Prof. Shuai Gao and Assoc. Prof. Weiting Zhang. I am expected to graduate in December 2026. My research focuses on networking for distributed intelligence in low-altitude networks.
           </p>
           <p>
             I am interested in edge intelligence, learning-enabled network optimization, and programmable routing and forwarding. My recent work explores networking support for federated learning, multi-stage UAV collaboration, and LLM-agent cooperation in dynamic wireless environments.
@@ -386,7 +386,7 @@ a:hover {
       <main class="content">
         <section>
           <p>
-            我是北京交通大学信息与通信工程专业博士研究生，导师为郜帅教授，研究指导为张维庭副教授，预计于 2026 年 12 月毕业。我的研究聚焦面向无人机与低空网络中分布式智能服务的自适应网络技术。
+            我是北京交通大学信息与通信工程专业博士研究生，导师为郜帅教授，研究指导为张维庭副教授，预计于 2026 年 12 月毕业。我的研究聚焦面向低空网络中分布式智能服务的网络系统与技术。
           </p>
           <p>
             我的研究兴趣包括边缘智能、学习驱动的网络优化，以及可编程路由与转发机制。近期工作主要探索面向联邦学习、多阶段无人机协同和大模型智能体协作的网络支撑机制。
@@ -465,10 +465,10 @@ a:hover {
         <section>
           <h2>专利</h2>
           <ul>
-            <li>郜帅、<strong>兰江雨</strong>、张宇、郑涛、权伟、苏伟，“面向无人机集群的聚类联邦学习方法、装置及电子设备”，中国专利，CN121865363A。</li>
-            <li>郜帅、张宇、易尧、<strong>兰江雨</strong>、苏伟、张宏科，“一种基于三维地理位置的组播通信方法、系统及电子设备”，中国专利，CN122001807A。</li>
-            <li>郜帅、<strong>兰江雨</strong>、张维庭、张宇、张宏科，“面向无人机集群的 QoS 感知多阶段任务分配方法及系统”，中国专利申请中。</li>
-            <li>郜帅、张宇、李阳、<strong>兰江雨</strong>、董鹏、张宏科，“面向基于身份组播的标识通信方法、数据转发方法及装置”，中国专利申请中。</li>
+            <li>郜帅、<strong>兰江雨</strong>、张宇明、郑涛、权伟、苏伟，“无人机集群分簇联邦学习方法、装置及电子设备”，中国发明专利，CN121865363A。</li>
+            <li>郜帅、张宇明、伊摇、<strong>兰江雨</strong>、苏伟、张宏科，“一种基于三维地理位置的组播通信方法、系统及电子设备”，中国发明专利，CN122001807A。</li>
+            <li>郜帅、<strong>兰江雨</strong>、张维庭、张宇明、张宏科，“面向无人机集群的 QoS 感知多阶段任务分配方法及系统”，中国发明专利申请中。</li>
+            <li>郜帅、张宇明、李语涵、<strong>兰江雨</strong>、董平、张宏科，“面向基于身份组播的标识通信方法、数据转发方法及装置”，中国发明专利申请中。</li>
           </ul>
         </section>
 

@@ -257,7 +257,7 @@ a:hover {
       <main class="content">
         <section>
           <p>
-            I am a Ph.D. candidate in Information and Communication Engineering at Beijing Jiaotong University, advised by Prof. Shuai Gao and Assoc. Prof. Weiting Zhang. I am expected to graduate in December 2026. My research focuses on networking for distributed intelligence in low-altitude networks.
+            I am a Ph.D. candidate inthe National Engineering Research Center of Advanced Network Technologies (lead by Prof. Hongke Zhang, Member of the Chinese Academy of Engineering and IEEE Fellow) at Beijing Jiaotong University, advised by Prof. Shuai Gao and Assoc. Prof. Weiting Zhang. I am expected to graduate in December 2026. My research focuses on networking for distributed intelligence in low-altitude networks.
           </p>
           <p>
             I am interested in edge intelligence, learning-enabled network optimization, and programmable routing and forwarding. My recent work explores networking support for federated learning, multi-stage UAV collaboration, and LLM-agent cooperation in dynamic wireless environments.
@@ -386,7 +386,7 @@ a:hover {
       <main class="content">
         <section>
           <p>
-            我是北京交通大学信息与通信工程专业博士研究生，导师为郜帅教授，研究指导为张维庭副教授，预计于 2026 年 12 月毕业。我的研究聚焦面向低空网络中分布式智能服务的网络系统与技术。
+            我目前博士就读于北京交通大学移动专用网络国家工程研究中心（张宏科院士团队）。我的导师是郜帅教授，同时受到了张维庭副教授的学术指导。我预计于 2026 年 12 月毕业，研究聚焦面向低空网络中分布式智能服务的网络系统与技术。
           </p>
           <p>
             我的研究兴趣包括边缘智能、学习驱动的网络优化，以及可编程路由与转发机制。近期工作主要探索面向联邦学习、多阶段无人机协同和大模型智能体协作的网络支撑机制。

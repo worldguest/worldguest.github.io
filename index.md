@@ -257,7 +257,7 @@ a:hover {
       <main class="content">
         <section>
           <p>
-            I am a Ph.D. candidate inthe National Engineering Research Center of Advanced Network Technologies (lead by Prof. Hongke Zhang, Member of the Chinese Academy of Engineering and IEEE Fellow) at Beijing Jiaotong University, advised by Prof. Shuai Gao and Assoc. Prof. Weiting Zhang. I am expected to graduate in December 2026. My research focuses on networking for distributed intelligence in low-altitude networks.
+            I am a Ph.D. candidate in Information and Communication Engineering at Beijing Jiaotong University, affiliated with the National Engineering Research Center for Advanced Network Technologies, led by Prof. Hongke Zhang, Member of the Chinese Academy of Engineering and IEEE Fellow.  I am advised by Prof. Shuai Gao and closely mentored by Assoc. Prof. Weiting Zhang.  I am expected to graduate in December 2026.  My research focuses on networking for distributed intelligence in low-altitude networks.
           </p>
           <p>
             I am interested in edge intelligence, learning-enabled network optimization, and programmable routing and forwarding. My recent work explores networking support for federated learning, multi-stage UAV collaboration, and LLM-agent cooperation in dynamic wireless environments.

@@ -270,6 +270,7 @@ a:hover {
         <section>
           <h2>News</h2>
           <ul class="news-list">
+            <li><strong>2026:</strong> HierTask accepted by IEEE Transactions on Network Science and Engineering.</li>
             <li><strong>2026:</strong> One paper accepted by IEEE ICC 2026.</li>
             <li><strong>2025:</strong> OpenL3 published in IEEE Internet of Things Journal.</li>
             <li><strong>2025:</strong> X-CFL published in IEEE GLOBECOM 2025.</li>
@@ -282,7 +283,7 @@ a:hover {
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, S. Gao, W. Zhang, X. Hou, M. Xi, Y. Zhang, B. Lei, H. Zhang, and X. Shen, "OpenL3: Embedding Diverse Network Services into MANETs Using Multidimensional Identifier," <em>IEEE Internet of Things Journal</em>, vol. 12, no. 11, pp. 17700-17716, 2025.</li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, D. Niyato, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE Transactions on Mobile Computing</em>, under review after major revision.</li>
-            <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," submitted to <em>IEEE Transactions on Network Science and Engineering</em>, under review after major revision.</li>
+            <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," accepted for publication in <em>IEEE Transactions on Network Science and Engineering</em>.</li>
             <li><strong>J. Lan</strong>, S. Gao, B. Lei, W. Zhang, Y. Wang, and H. Zhang, "AgentNet: An Agent-Centric Network Architecture for LLM-Enabled Low-Altitude Wireless Networks," submitted to <em>IEEE Communications Magazine</em>, under review after minor revision.</li>
           </ol>
 
@@ -399,6 +400,7 @@ a:hover {
         <section>
           <h2>近期动态</h2>
           <ul class="news-list">
+            <li><strong>2026：</strong>HierTask 论文被 IEEE Transactions on Network Science and Engineering 接收。</li>
             <li><strong>2026：</strong>一篇论文被 IEEE ICC 2026 接收。</li>
             <li><strong>2025：</strong>OpenL3 论文发表于 IEEE Internet of Things Journal。</li>
             <li><strong>2025：</strong>X-CFL 论文发表于 IEEE GLOBECOM 2025。</li>
@@ -411,7 +413,7 @@ a:hover {
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, S. Gao, W. Zhang, X. Hou, M. Xi, Y. Zhang, B. Lei, H. Zhang, and X. Shen, "OpenL3: Embedding Diverse Network Services into MANETs Using Multidimensional Identifier," <em>IEEE Internet of Things Journal</em>, vol. 12, no. 11, pp. 17700-17716, 2025.</li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, D. Niyato, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE Transactions on Mobile Computing</em>, under review after major revision.</li>
-            <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," submitted to <em>IEEE Transactions on Network Science and Engineering</em>, under review after major revision.</li>
+            <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," accepted for publication in <em>IEEE Transactions on Network Science and Engineering</em>.</li>
             <li><strong>J. Lan</strong>, S. Gao, B. Lei, W. Zhang, Y. Wang, and H. Zhang, "AgentNet: An Agent-Centric Network Architecture for LLM-Enabled Low-Altitude Wireless Networks," submitted to <em>IEEE Communications Magazine</em>, under review after minor revision.</li>
           </ol>
 

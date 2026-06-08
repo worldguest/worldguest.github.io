@@ -283,9 +283,9 @@ a:hover {
           <h3>Journal Papers and Manuscripts</h3>
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, S. Gao, W. Zhang, X. Hou, M. Xi, Y. Zhang, B. Lei, H. Zhang, and X. Shen, "OpenL3: Embedding Diverse Network Services into MANETs Using Multidimensional Identifier," <em>IEEE Internet of Things Journal</em>, vol. 12, no. 11, pp. 17700-17716, 2025.</li>
-            <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, D. Niyato, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE/ACM Transactions on Networking</em>, under review.</li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," <em>IEEE Transactions on Network Science and Engineering</em>, 2026.</li>
             <li><strong>J. Lan</strong>, S. Gao, B. Lei, W. Zhang, Y. Wang, and H. Zhang, "AgentNet: An Agent-Centric Network Architecture for LLM-Enabled Low-Altitude Wireless Networks," accepted for publication in <em>IEEE Communications Magazine</em>.</li>
+            <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, D. Niyato, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE/ACM Transactions on Networking</em>, under review.</li>
           </ol>
 
           <h3>Conference and Other Peer-Reviewed Papers</h3>
@@ -414,9 +414,9 @@ a:hover {
           <h3>期刊论文与在审稿件</h3>
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, S. Gao, W. Zhang, X. Hou, M. Xi, Y. Zhang, B. Lei, H. Zhang, and X. Shen, "OpenL3: Embedding Diverse Network Services into MANETs Using Multidimensional Identifier," <em>IEEE Internet of Things Journal</em>, vol. 12, no. 11, pp. 17700-17716, 2025.</li>
-            <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, D. Niyato, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE/ACM Transactions on Networking</em>, under review.</li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," <em>IEEE Transactions on Network Science and Engineering</em>, 2026.</li>
             <li><strong>J. Lan</strong>, S. Gao, B. Lei, W. Zhang, Y. Wang, and H. Zhang, "AgentNet: An Agent-Centric Network Architecture for LLM-Enabled Low-Altitude Wireless Networks," accepted for publication in <em>IEEE Communications Magazine</em>.</li>
+            <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, D. Niyato, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE/ACM Transactions on Networking</em>, under review.</li>
           </ol>
 
           <h3>会议论文与其他同行评议论文</h3>

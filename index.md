@@ -279,22 +279,28 @@ a:hover {
         </section>
 
         <section>
-          <h2>Selected Publications</h2>
-          <h3>Journal Papers and Manuscripts</h3>
+          <h2>Publications</h2>
+          <h3>Journal Papers</h3>
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, S. Gao, W. Zhang, X. Hou, M. Xi, Y. Zhang, B. Lei, H. Zhang, and X. Shen, "OpenL3: Embedding Diverse Network Services into MANETs Using Multidimensional Identifier," <em>IEEE Internet of Things Journal</em>, vol. 12, no. 11, pp. 17700-17716, 2025. <a href="https://ieeexplore.ieee.org/abstract/document/10870164" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," <em>IEEE Transactions on Network Science and Engineering</em>, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11535666" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, S. Gao, B. Lei, W. Zhang, Y. Wang, and H. Zhang, "AgentNet: An Agent-Centric Network Architecture for LLM-Enabled Low-Altitude Wireless Networks," accepted for publication in <em>IEEE Communications Magazine</em>.</li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE/ACM Transactions on Networking</em>, under review.</li>
+            <li>R. Chai, S. Gao, and <strong>J. Lan</strong>, "Efficient Computing Resource Measurement Method in Computing Power Networks," <em>Journal of Computer Research and Development</em>, vol. 60, no. 4, pp. 763-771, 2023. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:Y0pCki6q_DkC" target="_blank" rel="noopener">[paper]</a></li>
+            <li>Y. Xie and <strong>J. Lan</strong>, "Review of Collaborative Robots and Their Motion Planning Methods," <em>Journal of Computer Engineering &amp; Applications</em>, vol. 57, no. 13, 2021. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:2osOgNQ5qMEC" target="_blank" rel="noopener">[paper]</a></li>
+            <li><strong>J. Lan</strong>, Y. Xie, G. Liu, and M. Cao, "A Multi-Objective Trajectory Planning Method for Collaborative Robot," <em>Electronics</em>, vol. 9, no. 5, article 859, 2020. <a href="https://www.mdpi.com/2079-9292/9/5/859" target="_blank" rel="noopener">[paper]</a></li>
+            <li>Y. Xie, G. Liu, <strong>J. Lan</strong>, and B. Gao, "Abdominal Needle Assisted Robotic Arm Motion Control and Trajectory Planning," <em>J. Computers</em>, vol. 31, no. 2, pp. 298-311, 2020. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:d1gkVwhDpl0C" target="_blank" rel="noopener">[paper]</a></li>
+            <li>Y. Xie, J. Xing, G. Liu, <strong>J. Lan</strong>, and Y. Dong, "Real-Time Reconstruction of Unstructured Scenes Based on Binocular Vision Depth," <em>Journal of Internet Technology</em>, vol. 20, no. 5, pp. 1611-1623, 2019. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">[paper]</a></li>
+            <li>Y. Xie, H. Wang, H. Su, and <strong>J. Lan</strong>, "Noise Reduction Based on Kalman Filter of Low Precision Gyroscope," <em>Journal of Computers</em>, vol. 30, no. 5, pp. 313-327, 2019. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:u-x6o8ySG0sC" target="_blank" rel="noopener">[paper]</a></li>
           </ol>
 
-          <h3>Conference and Other Peer-Reviewed Papers</h3>
+          <h3>Conference Papers</h3>
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "X-CFL: Enabling Cross-Layer Clustered Federated Learning in UAV Swarms," in Proc. <em>IEEE GLOBECOM</em>, 2025, pp. 4403-4408. <a href="https://ieeexplore.ieee.org/abstract/document/11432689" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "Enabling QoS-Aware Multi-Stage Task Allocation in FANETs: A Hierarchical Learning Approach," accepted for publication in Proc. <em>IEEE ICC</em>, 2026.</li>
             <li>R. Ping and <strong>J. Lan</strong> (corresponding author), "A Trustworthy Service Authorization Mechanism for Multidimensional Identifier Networks," accepted for publication in Proc. <em>ICCCS</em>, 2026.</li>
-            <li>Q. Ma, S. Gao, M. Xi, and <strong>J. Lan</strong>, "A Multi-Dimensional Identifier-Based Routing Mechanism for Flying Ad-Hoc Networks," in Proc. <em>ICCCS</em>, 2024, pp. 691-697.</li>
-            <li><strong>J. Lan</strong>, Y. Xie, G. Liu, and M. Cao, "A Multi-Objective Trajectory Planning Method for Collaborative Robot," <em>Electronics</em>, vol. 9, no. 5, article 859, 2020.</li>
+            <li>Q. Ma, S. Gao, M. Xi, and <strong>J. Lan</strong>, "A Multi-Dimensional Identifier-Based Routing Mechanism for Flying Ad-Hoc Networks," in Proc. <em>ICCCS</em>, 2024, pp. 691-697. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:zYLM7Y9cAGgC" target="_blank" rel="noopener">[paper]</a></li>
+            <li><strong>J. Lan</strong>, Y. Xie, H. Wang, and G. Liu, "A Face Recognition System Based on Improved Convolutional Neural Network," in Proc. <em>2019 2nd International Conference on Algorithms, Computing and Artificial Intelligence</em>, 2019. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:Tyk-4Ss8FVUC" target="_blank" rel="noopener">[paper]</a></li>
           </ol>
         </section>
 
@@ -410,22 +416,28 @@ a:hover {
         </section>
 
         <section>
-          <h2>代表性论文</h2>
-          <h3>期刊论文与在审稿件</h3>
+          <h2>论文列表</h2>
+          <h3>期刊论文</h3>
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, S. Gao, W. Zhang, X. Hou, M. Xi, Y. Zhang, B. Lei, H. Zhang, and X. Shen, "OpenL3: Embedding Diverse Network Services into MANETs Using Multidimensional Identifier," <em>IEEE Internet of Things Journal</em>, vol. 12, no. 11, pp. 17700-17716, 2025. <a href="https://ieeexplore.ieee.org/abstract/document/10870164" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," <em>IEEE Transactions on Network Science and Engineering</em>, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11535666" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, S. Gao, B. Lei, W. Zhang, Y. Wang, and H. Zhang, "AgentNet: An Agent-Centric Network Architecture for LLM-Enabled Low-Altitude Wireless Networks," accepted for publication in <em>IEEE Communications Magazine</em>.</li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE/ACM Transactions on Networking</em>, under review.</li>
+            <li>柴若楠，郜帅，<strong>兰江雨</strong>，“算力网络中高效算力资源度量方法”，<em>计算机研究与发展</em>，60(4): 763-771, 2023. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:Y0pCki6q_DkC" target="_blank" rel="noopener">[paper]</a></li>
+            <li>解迎刚，<strong>兰江雨</strong>，“协作机器人及其运动规划方法研究综述”，<em>计算机工程与应用</em>，57(13), 2021. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:2osOgNQ5qMEC" target="_blank" rel="noopener">[paper]</a></li>
+            <li><strong>J. Lan</strong>, Y. Xie, G. Liu, and M. Cao, "A Multi-Objective Trajectory Planning Method for Collaborative Robot," <em>Electronics</em>, vol. 9, no. 5, article 859, 2020. <a href="https://www.mdpi.com/2079-9292/9/5/859" target="_blank" rel="noopener">[paper]</a></li>
+            <li>Y. Xie, G. Liu, <strong>J. Lan</strong>, and B. Gao, "Abdominal Needle Assisted Robotic Arm Motion Control and Trajectory Planning," <em>J. Computers</em>, vol. 31, no. 2, pp. 298-311, 2020. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:d1gkVwhDpl0C" target="_blank" rel="noopener">[paper]</a></li>
+            <li>Y. Xie, J. Xing, G. Liu, <strong>J. Lan</strong>, and Y. Dong, "Real-Time Reconstruction of Unstructured Scenes Based on Binocular Vision Depth," <em>Journal of Internet Technology</em>, vol. 20, no. 5, pp. 1611-1623, 2019. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener">[paper]</a></li>
+            <li>Y. Xie, H. Wang, H. Su, and <strong>J. Lan</strong>, "Noise Reduction Based on Kalman Filter of Low Precision Gyroscope," <em>Journal of Computers</em>, vol. 30, no. 5, pp. 313-327, 2019. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:u-x6o8ySG0sC" target="_blank" rel="noopener">[paper]</a></li>
           </ol>
 
-          <h3>会议论文与其他同行评议论文</h3>
+          <h3>会议论文</h3>
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "X-CFL: Enabling Cross-Layer Clustered Federated Learning in UAV Swarms," in Proc. <em>IEEE GLOBECOM</em>, 2025, pp. 4403-4408. <a href="https://ieeexplore.ieee.org/abstract/document/11432689" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "Enabling QoS-Aware Multi-Stage Task Allocation in FANETs: A Hierarchical Learning Approach," accepted for publication in Proc. <em>IEEE ICC</em>, 2026.</li>
             <li>R. Ping and <strong>J. Lan</strong> (corresponding author), "A Trustworthy Service Authorization Mechanism for Multidimensional Identifier Networks," accepted for publication in Proc. <em>ICCCS</em>, 2026.</li>
-            <li>Q. Ma, S. Gao, M. Xi, and <strong>J. Lan</strong>, "A Multi-Dimensional Identifier-Based Routing Mechanism for Flying Ad-Hoc Networks," in Proc. <em>ICCCS</em>, 2024, pp. 691-697.</li>
-            <li><strong>J. Lan</strong>, Y. Xie, G. Liu, and M. Cao, "A Multi-Objective Trajectory Planning Method for Collaborative Robot," <em>Electronics</em>, vol. 9, no. 5, article 859, 2020.</li>
+            <li>Q. Ma, S. Gao, M. Xi, and <strong>J. Lan</strong>, "A Multi-Dimensional Identifier-Based Routing Mechanism for Flying Ad-Hoc Networks," in Proc. <em>ICCCS</em>, 2024, pp. 691-697. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:zYLM7Y9cAGgC" target="_blank" rel="noopener">[paper]</a></li>
+            <li><strong>J. Lan</strong>, Y. Xie, H. Wang, and G. Liu, "A Face Recognition System Based on Improved Convolutional Neural Network," in Proc. <em>2019 2nd International Conference on Algorithms, Computing and Artificial Intelligence</em>, 2019. <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sa89XfwAAAAJ&amp;citation_for_view=sa89XfwAAAAJ:Tyk-4Ss8FVUC" target="_blank" rel="noopener">[paper]</a></li>
           </ol>
         </section>
 

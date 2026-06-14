@@ -260,7 +260,7 @@ a:hover {
             I am a Ph.D. candidate in Information and Communication Engineering at Beijing Jiaotong University, affiliated with the National Engineering Research Center for Advanced Network Technologies, led by Prof. Hongke Zhang, Academician of the Chinese Academy of Engineering and IEEE Fellow. I am advised by Prof. Shuai Gao and closely mentored by Assoc. Prof. Weiting Zhang. I am expected to graduate in December 2026. My research focuses on networking for distributed intelligence in low-altitude networks.
           </p>
           <p>
-            During my doctoral study, I have developed both theoretical and engineering capabilities through research on edge intelligence, learning-enabled network optimization, and programmable routing and forwarding. I have published multiple peer-reviewed papers and built prototype systems for programmable and intelligent networks. I am particularly interested in interdisciplinary research at the intersection of networking, edge intelligence, autonomous systems, and AI agents, and I am ready to contribute to new postdoctoral projects that require both rigorous research and practical system implementation.
+            My research background spans robot motion planning during my master's study and, during my Ph.D., UAV networking, LLM agents, network systems and protocols, federated learning, and reinforcement learning. Working across these topics has strengthened my ability to conduct interdisciplinary research and quickly adapt to new research directions. In addition to publishing peer-reviewed papers and building prototype systems, I have contributed to several research grant proposals, which has also strengthened my technical writing and project-planning skills. I am seeking postdoctoral opportunities where I can contribute both rigorous research and practical system experience.
           </p>
           <p class="tag-line">
             Research interests: UAV and low-altitude networks; mobile and edge intelligence; LLM-enabled wireless and edge networks; reinforcement learning; federated learning; programmable network systems.
@@ -397,7 +397,7 @@ a:hover {
             我目前博士就读于北京交通大学移动专用网络国家工程研究中心（张宏科院士团队），导师为郜帅教授，同时受张维庭副教授学术指导，预计于 2026 年 12 月毕业。我的研究主要聚焦面向低空网络中分布式智能服务的网络系统与技术。
           </p>
           <p>
-            在博士学习期间，我围绕边缘智能、学习驱动的网络优化以及可编程路由与转发机制，同时锻炼了理论研究和工程实现能力，发表了多篇论文，并搭建了面向可编程网络与智能网络服务的原型系统。我对网络、边缘智能、自主系统与 AI 智能体等交叉方向研究非常感兴趣。对于未来的博士后项目，我期待可以贡献扎实的研究能力和系统实现经验。
+            我的研究经历覆盖多个方向：硕士期间主要从事机器人运动规划研究，博士期间进一步拓展到无人机网络、LLM agent、网络系统与协议、联邦学习和强化学习算法等方向。不同研究主题的训练使我具备较强的跨学科交叉研究能力，也能够较快学习并适应新的研究方向。博士期间，除发表论文和参与工程原型系统搭建外，我还参与了多个基金申请书的撰写，积累了较强的技术写作和项目规划能力。未来我希望在博士后工作中继续贡献扎实的研究能力和系统实现经验。
           </p>
           <p class="tag-line">
             研究方向：无人机与低空网络；移动与边缘智能；大模型赋能的无线与边缘网络；强化学习；联邦学习；可编程网络系统。

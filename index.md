@@ -345,9 +345,10 @@ a:hover {
           <h2>Patents</h2>
           <ul>
             <li>S. Gao, <strong>J. Lan</strong>, Y. Zhang, T. Zheng, W. Quan, and W. Su, "Clustered Federated Learning Method, Apparatus, and Electronic Device for UAV Swarms," Chinese Patent, No. CN121865363A.</li>
-            <li>S. Gao, Y. Zhang, Y. Yi, <strong>J. Lan</strong>, W. Su, and H. Zhang, "A Multicast Communication Method, System, and Electronic Device Based on 3D Geographic Location," Chinese Patent, No. CN122001807A.</li>
             <li>S. Gao, <strong>J. Lan</strong>, W. Zhang, Y. Zhang, and H. Zhang, "QoS-Aware Multi-Stage Task Allocation Method and System for UAV Swarms," Chinese Patent, No. CN122134018A.</li>
+            <li>S. Gao, Y. Zhang, Y. Yi, <strong>J. Lan</strong>, W. Su, and H. Zhang, "A Multicast Communication Method, System, and Electronic Device Based on 3D Geographic Location," Chinese Patent, No. CN122001807A.</li>
             <li>S. Gao, Y. Zhang, Y. Li, <strong>J. Lan</strong>, P. Dong, and H. Zhang, "Identifier-Based Communication Method, Data Forwarding Method, and Apparatus for Identity-Based Multicast," Chinese Patent, No. CN122268797A.</li>
+            <li>S. Gao, Y. Zhang, X. Ping, <strong>J. Lan</strong>, W. Su, and H. Zhang, "A management system and method for heterogeneous network services," Chinese Patent, pending.</li>
           </ul>
         </section>
 
@@ -484,9 +485,10 @@ a:hover {
           <h2>专利</h2>
           <ul>
             <li>郜帅、<strong>兰江雨</strong>、张宇明、郑涛、权伟、苏伟，“无人机集群分簇联邦学习方法、装置及电子设备”，发明专利，CN121865363A。</li>
+            li>郜帅、<strong>兰江雨</strong>、张维庭、张宇明、张宏科，“面向服务质量感知的无人机集群多阶段任务分配方法及系统”，发明专利，CN122134018A。</li>
             <li>郜帅、张宇明、伊摇、<strong>兰江雨</strong>、苏伟、张宏科，“一种基于三维地理位置的组播通信方法、系统及电子设备”，发明专利，CN122001807A。</li>
-            <li>郜帅、<strong>兰江雨</strong>、张维庭、张宇明、张宏科，“面向无人机集群的 QoS 感知多阶段任务分配方法及系统”，发明专利，CN122134018A。</li>
-            <li>郜帅、张宇明、李语涵、<strong>兰江雨</strong>、董平、张宏科，“面向基于身份组播的标识通信方法、数据转发方法及装置”，发明专利，CN122268797A。</li>
+            <li>郜帅、张宇明、李语涵、<strong>兰江雨</strong>、董平、张宏科，“面向身份组播的标识通信方法、数据转发方法及装置”，发明专利，CN122268797A。</li>
+            <li>郜帅、张宇明、平瑞雪、<strong>兰江雨</strong>、苏伟、张宏科，“一种面向异构网络服务的管控系统及方法”，发明专利申请中。</li>
           </ul>
         </section>
 

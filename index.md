@@ -355,10 +355,10 @@ a:hover {
         <section>
           <h2>Academic Service</h2>
           <ul>
+            <li>Reviewer for <em>IEEE Transactions on Mobile Computing</em>.</li>
             <li>Reviewer for <em>IEEE Transactions on Network Science and Engineering</em>.</li>
             <li>Reviewer for <em>IEEE Transactions on Cognitive Communications and Networking</em>.</li>
             <li>Reviewer for <em>IEEE Transactions on Dependable and Secure Computing</em>.</li>
-            <li>Reviewer for <em>Expert Systems</em>.</li>
           </ul>
         </section>
 
@@ -495,10 +495,10 @@ a:hover {
         <section>
           <h2>学术服务</h2>
           <ul>
+            <li>担任 <em>IEEE Transactions on Mobile Computing</em> 审稿人。</li>
             <li>担任 <em>IEEE Transactions on Network Science and Engineering</em> 审稿人。</li>
             <li>担任 <em>IEEE Transactions on Cognitive Communications and Networking</em> 审稿人。</li>
             <li>担任 <em>IEEE Transactions on Dependable and Secure Computing</em> 审稿人。</li>
-            <li>担任 <em>Expert Systems</em> 审稿人。</li>
           </ul>
         </section>
 

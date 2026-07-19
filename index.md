@@ -272,7 +272,7 @@ a:hover {
           <ul class="news-list">
             <li><strong>2026:</strong> AgentNet accepted by IEEE Communications Magazine.</li>
             <li><strong>2026:</strong> HierTask published online in IEEE Transactions on Network Science and Engineering.</li>
-            <li><strong>2026:</strong> One paper accepted by IEEE ICC 2026.</li>
+            <li><strong>2026:</strong> One paper published in IEEE ICC 2026.</li>
             <li><strong>2025:</strong> OpenL3 published in IEEE Internet of Things Journal.</li>
             <li><strong>2025:</strong> X-CFL published in IEEE GLOBECOM 2025.</li>
           </ul>
@@ -297,7 +297,7 @@ a:hover {
           <h3>Conference Papers</h3>
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "X-CFL: Enabling Cross-Layer Clustered Federated Learning in UAV Swarms," in Proc. <em>IEEE GLOBECOM</em>, 2025, pp. 4403-4408. <a href="https://ieeexplore.ieee.org/abstract/document/11432689" target="_blank" rel="noopener">[paper]</a></li>
-            <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "Enabling QoS-Aware Multi-Stage Task Allocation in FANETs: A Hierarchical Learning Approach," accepted for publication in Proc. <em>IEEE ICC</em>, 2026.</li>
+            <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "Enabling QoS-Aware Multi-Stage Task Allocation in FANETs: A Hierarchical Learning Approach," in Proc. <em>IEEE International Conference on Communications (ICC)</em>, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11588259" target="_blank" rel="noopener">[paper]</a></li>
             <li>R. Ping and <strong>J. Lan</strong> (corresponding author), "A Trustworthy Service Authorization Mechanism for Multidimensional Identifier Networks," accepted for publication in Proc. <em>ICCCS</em>, 2026.</li>
             <li>Q. Ma, S. Gao, M. Xi, and <strong>J. Lan</strong>, "A Multi-Dimensional Identifier-Based Routing Mechanism for Flying Ad-Hoc Networks," in Proc. <em>ICCCS</em>, 2024, pp. 691-697. <a href="https://ieeexplore.ieee.org/abstract/document/10603072" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, Y. Xie, H. Wang, and G. Liu, "A Face Recognition System Based on Improved Convolutional Neural Network," in Proc. <em>2019 2nd International Conference on Algorithms, Computing and Artificial Intelligence</em>, 2019. <a href="https://dl.acm.org/doi/abs/10.1145/3377713.3377765" target="_blank" rel="noopener">[paper]</a></li>
@@ -359,6 +359,7 @@ a:hover {
             <li>Reviewer for <em>IEEE Transactions on Network Science and Engineering</em>.</li>
             <li>Reviewer for <em>IEEE Transactions on Cognitive Communications and Networking</em>.</li>
             <li>Reviewer for <em>IEEE Transactions on Dependable and Secure Computing</em>.</li>
+            <li>Reviewer for <em>Expert Systems</em>.</li>
           </ul>
         </section>
 
@@ -412,7 +413,7 @@ a:hover {
           <ul class="news-list">
             <li><strong>2026：</strong>AgentNet 论文被 IEEE Communications Magazine 接收。</li>
             <li><strong>2026：</strong>HierTask 论文在 IEEE Transactions on Network Science and Engineering 网络出版。</li>
-            <li><strong>2026：</strong>一篇论文被 IEEE ICC 2026 接收。</li>
+            <li><strong>2026：</strong>一篇论文发表于 IEEE ICC 2026。</li>
             <li><strong>2025：</strong>OpenL3 论文发表于 IEEE Internet of Things Journal。</li>
             <li><strong>2025：</strong>X-CFL 论文发表于 IEEE GLOBECOM 2025。</li>
           </ul>
@@ -437,7 +438,7 @@ a:hover {
           <h3>会议论文</h3>
           <ol class="pub-list">
             <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "X-CFL: Enabling Cross-Layer Clustered Federated Learning in UAV Swarms," in Proc. <em>IEEE GLOBECOM</em>, 2025, pp. 4403-4408. <a href="https://ieeexplore.ieee.org/abstract/document/11432689" target="_blank" rel="noopener">[paper]</a></li>
-            <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "Enabling QoS-Aware Multi-Stage Task Allocation in FANETs: A Hierarchical Learning Approach," accepted for publication in Proc. <em>IEEE ICC</em>, 2026.</li>
+            <li><strong>J. Lan</strong>, X. Ma, S. Gao, W. Zhang, and X. Hou, "Enabling QoS-Aware Multi-Stage Task Allocation in FANETs: A Hierarchical Learning Approach," in Proc. <em>IEEE International Conference on Communications (ICC)</em>, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11588259" target="_blank" rel="noopener">[paper]</a></li>
             <li>R. Ping and <strong>J. Lan</strong> (corresponding author), "A Trustworthy Service Authorization Mechanism for Multidimensional Identifier Networks," accepted for publication in Proc. <em>ICCCS</em>, 2026.</li>
             <li>Q. Ma, S. Gao, M. Xi, and <strong>J. Lan</strong>, "A Multi-Dimensional Identifier-Based Routing Mechanism for Flying Ad-Hoc Networks," in Proc. <em>ICCCS</em>, 2024, pp. 691-697. <a href="https://ieeexplore.ieee.org/abstract/document/10603072" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, Y. Xie, H. Wang, and G. Liu, "A Face Recognition System Based on Improved Convolutional Neural Network," in Proc. <em>2019 2nd International Conference on Algorithms, Computing and Artificial Intelligence</em>, 2019. <a href="https://dl.acm.org/doi/abs/10.1145/3377713.3377765" target="_blank" rel="noopener">[paper]</a></li>
@@ -499,6 +500,7 @@ a:hover {
             <li>担任 <em>IEEE Transactions on Network Science and Engineering</em> 审稿人。</li>
             <li>担任 <em>IEEE Transactions on Cognitive Communications and Networking</em> 审稿人。</li>
             <li>担任 <em>IEEE Transactions on Dependable and Secure Computing</em> 审稿人。</li>
+            <li>担任 <em>Expert Systems</em> 审稿人。</li>
           </ul>
         </section>
 

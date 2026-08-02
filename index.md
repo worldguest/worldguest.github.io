@@ -354,12 +354,14 @@ a:hover {
 
         <section>
           <h2>Academic Service</h2>
+          <p>Reviewer for:</p>
           <ul>
-            <li>Reviewer for <em>IEEE Transactions on Mobile Computing</em>.</li>
-            <li>Reviewer for <em>IEEE Transactions on Network Science and Engineering</em>.</li>
-            <li>Reviewer for <em>IEEE Transactions on Cognitive Communications and Networking</em>.</li>
-            <li>Reviewer for <em>IEEE Transactions on Dependable and Secure Computing</em>.</li>
-            <li>Reviewer for <em>Expert Systems</em>.</li>
+            <li><em>IEEE Transactions on Mobile Computing</em></li>
+            <li><em>IEEE Transactions on Network Science and Engineering</em></li>
+            <li><em>IEEE Transactions on Cognitive Communications and Networking</em></li>
+            <li><em>IEEE Transactions on Dependable and Secure Computing</em></li>
+            <li><em>Expert Systems</em></li>
+            <li><em>Discover Artificial Intelligence</em></li>
           </ul>
         </section>
 
@@ -495,12 +497,14 @@ a:hover {
 
         <section>
           <h2>学术服务</h2>
+          <p>担任审稿人：</p>
           <ul>
-            <li>担任 <em>IEEE Transactions on Mobile Computing</em> 审稿人。</li>
-            <li>担任 <em>IEEE Transactions on Network Science and Engineering</em> 审稿人。</li>
-            <li>担任 <em>IEEE Transactions on Cognitive Communications and Networking</em> 审稿人。</li>
-            <li>担任 <em>IEEE Transactions on Dependable and Secure Computing</em> 审稿人。</li>
-            <li>担任 <em>Expert Systems</em> 审稿人。</li>
+            <li><em>IEEE Transactions on Mobile Computing</em></li>
+            <li><em>IEEE Transactions on Network Science and Engineering</em></li>
+            <li><em>IEEE Transactions on Cognitive Communications and Networking</em></li>
+            <li><em>IEEE Transactions on Dependable and Secure Computing</em></li>
+            <li><em>Expert Systems</em></li>
+            <li><em>Discover Artificial Intelligence</em></li>
           </ul>
         </section>
 

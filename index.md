@@ -286,6 +286,7 @@ a:hover {
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," <em>IEEE Transactions on Network Science and Engineering</em>, vol. 13, pp. 9768-9787, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11535666" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, S. Gao, B. Lei, W. Zhang, Y. Wang, and H. Zhang, "AgentNet: An Agent-Centric Network Architecture for LLM-Enabled Low-Altitude Wireless Networks," <em>IEEE Communications Magazine</em>, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11613109/" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE/ACM Transactions on Networking</em>, under review.</li>
+            <li>M. Xi, S. Gao, <strong>J. Lan</strong>, and X. Hou, "An Authentication Scheme Based on Identity Encryption in UAV Ad Hoc Network," <em>Computer Technology and Development</em>, vol. 34, no. 9, pp. 82-87, 2024. <a href="https://wjfz.cbpt.cnki.net/portal/journal/portal/client/paper/57110190c5d1654b73db653cb4d01182" target="_blank" rel="noopener">[paper]</a></li>
             <li>R. Chai, S. Gao, <strong>J. Lan</strong>, and N. Liu, "Efficient Computing Resource Measurement Method in Computing Power Networks," <em>Journal of Computer Research and Development</em>, vol. 60, no. 4, pp. 763-771, 2023. <a href="https://kns.cnki.net/kcms2/article/abstract?v=mX7l0X-lXK1Dh5aNVZhNR6yZAJ-FXqWcX4q4RlAMfT4q-5Fzl6MaJ6lp__obgoYqAKt2sV9ntEQJOFZB1o7PynAqFIZmQoDnMrFK28XxjZFPawV1BInEdKUM_WopSb8hIkqVR0EBVl1bm30Kc5nFuNbSheAGUfEvLWoob_Jn8EU1Zsa5Vcv2Tw==&uniplatform=NZKPT&language=CHS" target="_blank" rel="noopener">[paper]</a></li>
             <li>Y. Xie and <strong>J. Lan</strong>, "Review of Collaborative Robots and Their Motion Planning Methods," <em>Journal of Computer Engineering &amp; Applications</em>, vol. 57, no. 13, 2021. <a href="https://www.researchgate.net/profile/Jiangyu-Lan/publication/370779755_Review_of_Collaborative_Robot_and_Its_Motion_Planning_Methods/links/64636252f43b8a29ba53bfe8/Review-of-Collaborative-Robot-and-Its-Motion-Planning-Methods.pdf" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, Y. Xie, G. Liu, and M. Cao, "A Multi-Objective Trajectory Planning Method for Collaborative Robot," <em>Electronics</em>, vol. 9, no. 5, article 859, 2020. <a href="https://www.mdpi.com/2079-9292/9/5/859" target="_blank" rel="noopener">[paper]</a></li>
@@ -360,6 +361,7 @@ a:hover {
             <li><em>IEEE Transactions on Network Science and Engineering</em></li>
             <li><em>IEEE Transactions on Cognitive Communications and Networking</em></li>
             <li><em>IEEE Transactions on Dependable and Secure Computing</em></li>
+            <li><em>Scientific Reports</em></li>
             <li><em>Expert Systems</em></li>
             <li><em>Discover Artificial Intelligence</em></li>
           </ul>
@@ -429,6 +431,7 @@ a:hover {
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "HierTask: Enabling QoS-Aware Hierarchical Task-Centric Routing for UAV Swarms," <em>IEEE Transactions on Network Science and Engineering</em>, vol. 13, pp. 9768-9787, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11535666" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, S. Gao, B. Lei, W. Zhang, Y. Wang, and H. Zhang, "AgentNet: An Agent-Centric Network Architecture for LLM-Enabled Low-Altitude Wireless Networks," <em>IEEE Communications Magazine</em>, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11613109/" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, S. Gao, X. Ma, W. Zhang, X. Hou, Y. Wang, and H. Zhang, "X-CFL: A Cross-Layer Clustered Federated Learning Framework for UAV Networks," submitted to <em>IEEE/ACM Transactions on Networking</em>, under review.</li>
+            <li>席铭辉、郜帅、<strong>兰江雨</strong>、侯心迪，“一种无人机自组网中基于身份加密的认证方案”，<em>计算机技术与发展</em>，34(9): 82-87, 2024. <a href="https://wjfz.cbpt.cnki.net/portal/journal/portal/client/paper/57110190c5d1654b73db653cb4d01182" target="_blank" rel="noopener">[paper]</a></li>
             <li>柴若楠，郜帅，<strong>兰江雨</strong>，刘宁春，“算力网络中高效算力资源度量方法”，<em>计算机研究与发展</em>，60(4): 763-771, 2023. <a href="https://kns.cnki.net/kcms2/article/abstract?v=mX7l0X-lXK1Dh5aNVZhNR6yZAJ-FXqWcX4q4RlAMfT4q-5Fzl6MaJ6lp__obgoYqAKt2sV9ntEQJOFZB1o7PynAqFIZmQoDnMrFK28XxjZFPawV1BInEdKUM_WopSb8hIkqVR0EBVl1bm30Kc5nFuNbSheAGUfEvLWoob_Jn8EU1Zsa5Vcv2Tw==&uniplatform=NZKPT&language=CHS" target="_blank" rel="noopener">[paper]</a></li>
             <li>解迎刚，<strong>兰江雨</strong>，“协作机器人及其运动规划方法研究综述”，<em>计算机工程与应用</em>，57(13), 2021. <a href="https://www.researchgate.net/profile/Jiangyu-Lan/publication/370779755_Review_of_Collaborative_Robot_and_Its_Motion_Planning_Methods/links/64636252f43b8a29ba53bfe8/Review-of-Collaborative-Robot-and-Its-Motion-Planning-Methods.pdf" target="_blank" rel="noopener">[paper]</a></li>
             <li><strong>J. Lan</strong>, Y. Xie, G. Liu, and M. Cao, "A Multi-Objective Trajectory Planning Method for Collaborative Robot," <em>Electronics</em>, vol. 9, no. 5, article 859, 2020. <a href="https://www.mdpi.com/2079-9292/9/5/859" target="_blank" rel="noopener">[paper]</a></li>
@@ -503,6 +506,7 @@ a:hover {
             <li><em>IEEE Transactions on Network Science and Engineering</em></li>
             <li><em>IEEE Transactions on Cognitive Communications and Networking</em></li>
             <li><em>IEEE Transactions on Dependable and Secure Computing</em></li>
+            <li><em>Scientific Reports</em></li>
             <li><em>Expert Systems</em></li>
             <li><em>Discover Artificial Intelligence</em></li>
           </ul>
